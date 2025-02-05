@@ -44,7 +44,11 @@ By utilizing transfer learning, the models benefited from the learned representa
 | InseptionV3 | 97.71% |
 <br>
 
-## 👉 Application
+## 📓 Codes
+👉 <a href='Steel_load_data.ipynb' target="_blank">Preprocessing</a><br>
+👉 <a href='Steel_final.ipynb' target="_blank">Model Training</a><br>
+
+## 📓 Application
 
 Automatic welding defect detection offers several advantages over manual inspection methods such as Increased accuracy, Enhanced productivity, Consistency and reliability, Early detection and prevention, Safety improvement etc.
 <br>
